@@ -149,9 +149,9 @@ Production HRMS delivered to a real Saudi company, replacing manual HR workflows
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=asaad-cs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asaad-cs&theme=github_dark" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad-cs&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asaad-cs&theme=github_dark" alt="Top Languages" />
 
 </div>
 
