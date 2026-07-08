@@ -1,0 +1,65 @@
+<svg viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="200" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e6edf3"/>
+      <stop offset="1" stop-color="#a8d8ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="260" fill="url(#bg)"/>
+
+  <!-- Top accent bar -->
+  <rect width="900" height="3" fill="url(#accent)"/>
+
+  <!-- Bottom accent bar -->
+  <rect y="257" width="900" height="3" fill="url(#accent)"/>
+
+  <!-- Left decorative vertical rule -->
+  <line x1="155" y1="28" x2="155" y2="232" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Right decorative vertical rule -->
+  <line x1="745" y1="28" x2="745" y2="232" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Left dot grid -->
+  <g fill="#21262d">
+    <circle cx="38"  cy="185" r="2"/><circle cx="66"  cy="185" r="2"/><circle cx="94"  cy="185" r="2"/><circle cx="122" cy="185" r="2"/>
+    <circle cx="38"  cy="208" r="2"/><circle cx="66"  cy="208" r="2"/><circle cx="94"  cy="208" r="2"/><circle cx="122" cy="208" r="2"/>
+    <circle cx="38"  cy="231" r="2"/><circle cx="66"  cy="231" r="2"/><circle cx="94"  cy="231" r="2"/><circle cx="122" cy="231" r="2"/>
+  </g>
+
+  <!-- Right dot grid -->
+  <g fill="#21262d">
+    <circle cx="778" cy="38"  r="2"/><circle cx="806" cy="38"  r="2"/><circle cx="834" cy="38"  r="2"/><circle cx="862" cy="38"  r="2"/>
+    <circle cx="778" cy="62"  r="2"/><circle cx="806" cy="62"  r="2"/><circle cx="834" cy="62"  r="2"/><circle cx="862" cy="62"  r="2"/>
+    <circle cx="778" cy="86"  r="2"/><circle cx="806" cy="86"  r="2"/><circle cx="834" cy="86"  r="2"/><circle cx="862" cy="86"  r="2"/>
+  </g>
+
+  <!-- Decorative code brackets -->
+  <text x="162" y="156" font-family="'Courier New', monospace" font-size="72" fill="#1c2128" font-weight="700">&lt;</text>
+  <text x="690" y="156" font-family="'Courier New', monospace" font-size="72" fill="#1c2128" font-weight="700">/&gt;</text>
+
+  <!-- Subtle horizontal rule above name -->
+  <rect x="330" y="68" width="240" height="1" fill="url(#accent)" opacity="0.35"/>
+
+  <!-- Name -->
+  <text x="450" y="122" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="-0.5">Ahmed Saad Al-Faidi</text>
+
+  <!-- Title -->
+  <text x="450" y="158" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="500" fill="#58a6ff" text-anchor="middle" letter-spacing="3">AI  &amp;  FULL-STACK  DEVELOPER</text>
+
+  <!-- Tagline -->
+  <text x="450" y="192" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#6e7681" text-anchor="middle" letter-spacing="0.4">RAG Pipelines  ·  LLM Integration  ·  Production Software  ·  Saudi Arabia</text>
+
+  <!-- Subtle horizontal rule below tagline -->
+  <rect x="330" y="204" width="240" height="1" fill="url(#accent)" opacity="0.35"/>
+</svg>
