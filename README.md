@@ -143,26 +143,6 @@ Production HRMS delivered to a real Saudi company, replacing manual HR workflows
 
 <br/>
 
-<!-- ════════════════════════════ GITHUB STATISTICS ══════════════════════════ -->
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=asaad-cs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad-cs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asaad-cs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 <!-- ══════════════════════════ CERTIFICATIONS ════════════════════════════════ -->
 
 ## Certifications & Training
